@@ -1,3 +1,6 @@
+*.png
+screenshots/
+
 # Logs
 logs
 *.log
